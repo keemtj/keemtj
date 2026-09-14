@@ -20,4 +20,5 @@
 
 #### Contact
 
+[Blog](https://keemtj.me)<br />
 [keemgreat@gmail.com](mailto:keemgreat@gmail.com)
