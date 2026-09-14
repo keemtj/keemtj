@@ -1,24 +1,23 @@
-<!-- 🐣 I am a beginner
-✍🏻 I started studying on Jan, 2020
-🧑🏻‍💻 I want to be a front-end developer
-🌳 I have a bachelor's degree in forestry -->
+### 김태진 · Frontend Developer
 
-#
+웹과 인앱 웹뷰를 중심으로 모바일 앱과 데스크톱 앱까지 만듭니다.
+요구사항에 적혀 있지 않은 문제까지 찾아 개선하는 것을 좋아합니다.
 
-<img align="center" style="height:180px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=keemtj&layout=compact&theme=tokyonight" />
+(주)똑똑한개발자 · 2021.12 ~ 현재
 
-<img align="center" style="width: 330px; height:180px" src="https://github-readme-stats.vercel.app/api?username=keemtj&show_icons=true&theme=tokyonight" />
-
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white)
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat&logo=next.js&logoColor=white)
+![React](https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=black)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat&logo=nextdotjs&logoColor=white)
+![React Native](https://img.shields.io/badge/React%20Native-000020?style=flat&logo=expo&logoColor=white)
 ![Electron](https://img.shields.io/badge/Electron-47848F?style=flat&logo=electron&logoColor=white)
+![React Query](https://img.shields.io/badge/React%20Query-FF4154?style=flat&logo=reactquery&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind%20CSS-06B6D4?style=flat&logo=tailwindcss&logoColor=white)
+![Claude Code](https://img.shields.io/badge/Claude%20Code-D97757?style=flat&logo=claudecode&logoColor=white)
 
-<!-- ![Vercel](https://img.shields.io/badge/Vercel-000000?style=flat&logo=vercel&logoColor=white)
-![Chakra-UI](https://img.shields.io/badge/Chakra--UI-319795?style=flat&logo=chakra-ui&logoColor=white)
-![React-Query](https://img.shields.io/badge/ReactQuery-FF4154?style=flat&logo=reactquery&logoColor=white)
-![Zustand](https://img.shields.io/badge/Zustand-A33035?style=flat&logo=zustand&logoColor=white)
-![tailwindcss](https://img.shields.io/badge/tailwind-06B6D4?style=flat&logo=tailwindcss&logoColor=white)
-![mdx](https://img.shields.io/badge/MDX-1B1F24?style=flat&logo=mdx&logoColor=white) -->
+#### Apps
 
-#
+**[왁뿌볼 뿌수기](https://minion.toss.im/jQdq6ow5)** — 앱인토스 미니앱, 설치 없이 토스에서 바로 실행됩니다
+
+#### Contact
+
+[keemgreat@gmail.com](mailto:keemgreat@gmail.com)
