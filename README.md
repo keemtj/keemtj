@@ -20,5 +20,5 @@
 
 #### Contact
 
-[Blog](https://keemtj.me)<br />
+[Blog](https://keemtj.me) — 해결책보다 그 해결책에 도달한 과정을 씁니다<br />
 [keemgreat@gmail.com](mailto:keemgreat@gmail.com)
